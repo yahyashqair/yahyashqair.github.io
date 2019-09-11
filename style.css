@@ -1,0 +1,80 @@
+
+.headd{
+  width:100%;
+  text-align: center;
+  padding-bottom:100px; 
+  padding-top: 100px;
+  background-color: rgb(232,243,248);
+  font-size: 200%;
+
+}
+nav{
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.89);
+  text-transform: uppercase;
+  padding: 10PX;
+  font-size: 20px;
+}
+nav a {
+  margin: 20px;
+}
+#top{
+  margin: 10px;
+}
+.bio{
+  padding-bottom:100px; 
+  padding: 100px;
+  
+  font-size: 120%;
+    background-color: rgba(129,168,184);
+}
+
+
+
+a{
+  text-decoration: none;
+  color: rgba(39, 39, 39, 0.89);
+}
+.text:hover{
+  color: rgb(44, 44, 44);
+}
+td{
+  text-align: left;
+	padding-right: 50px;
+}
+
+.skill{
+  padding: 100px;
+  background-color: rgb(164,188,194);
+  color:rgb(18,49,66);
+}
+.lab{
+  padding: 100px;
+  background-color: rgb(194,203,206);
+}
+.Assignment{
+  padding: 100px;
+  background-color: rgb(219,230,236);
+}
+
+
+#immg{
+    border-radius: 30%;
+    opacity: 1;
+    }
+#immg:hover {
+	    opacity: 0.5;
+}
+
+body {
+  color: rgb(18,49,66);
+
+  font-family: 'Ubuntu', sans-serif;
+
+
+  margin: 0 ;
+/*  max-width: 100%;
+  padding: 1em 0;
+*/}
