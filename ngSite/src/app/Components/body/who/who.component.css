@@ -1,5 +1,39 @@
 .main{
-  background: linear-gradient(var(--light),var(--dark));
+  background-image: linear-gradient(#230F2B , rgb(25, 16, 41));
+/*,linear-gradient(var(--light),var(--dark))*/
   height: 100vh;
   font-family: var(--font-family-monospace);
+  color: #EBEBBC;
+
+}
+
+.project{
+  background-image: linear-gradient(rgb(25, 16, 41) ,#EBEBBC );
+  /*,linear-gradient(var(--light),var(--dark))*/
+  height: 100vh;
+  font-family: var(--font-family-monospace);
+  color: #EBEBBC;
+
+}
+.bgred{
+  color: #230F2B;
+  background:#EBEBBC ;
+}
+.bgimg{
+
+  background-image:url("../../../../assets/bg1.png") ;
+  background-size: 1000px;
+  background-repeat: no-repeat;
+  background-position:center;
+
+}
+.z1{
+  z-index: 1;
+}
+
+
+h1:hover {
+  background: -webkit-linear-gradient(#44ee97, #357064);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
