@@ -1,0 +1,5 @@
+.main{
+  background: linear-gradient(var(--light),var(--dark));
+  height: 100vh;
+  font-family: var(--font-family-monospace);
+}

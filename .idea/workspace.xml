@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8428a861-3baa-469e-b910-21427803e6eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/old/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XTibknzCaeZ7GTX95XFGoWe1mJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\yshqa\OneDrive\Desktop\mywebsite\yahyashqair.github.io\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="ts.external.directory.path" value="C:\Users\yshqa\OneDrive\Desktop\mywebsite\yahyashqair.github.io\node_modules\typescript\lib" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="E2E Tests (ng-x-rocket-e2e)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8428a861-3baa-469e-b910-21427803e6eb" name="Default Changelist" comment="" />
+      <created>1581076558548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581076558548</updated>
+      <workItem from="1581076564203" duration="3120000" />
+      <workItem from="1581080604321" duration="864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="104" key="CommitChangelistDialog2" timestamp="1581077171105">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="435" y="104" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1581077171104" />
+    <state x="1652" y="202" key="DiffContextDialog" timestamp="1581081219862">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1652" y="202" key="DiffContextDialog/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1581081219862" />
+    <state x="1985" y="248" key="FileChooserDialogImpl" timestamp="1581081466831">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1985" y="248" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1581081466831" />
+    <state width="1345" height="94" key="GridCell.Tab.0.bottom" timestamp="1581079179049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="94" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1581079179049" />
+    <state width="1659" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1581077873932" />
+    <state width="1345" height="94" key="GridCell.Tab.0.center" timestamp="1581079179048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="94" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1581079179048" />
+    <state width="1659" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1581077873932" />
+    <state width="1345" height="94" key="GridCell.Tab.0.left" timestamp="1581079179048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="94" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1581079179048" />
+    <state width="1659" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1581077873931" />
+    <state width="1345" height="94" key="GridCell.Tab.0.right" timestamp="1581079179048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="94" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1581079179048" />
+    <state width="1659" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1581077873932" />
+    <state x="1930" y="132" key="RollbackChangesDialog" timestamp="1581081220623">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1930" y="132" key="RollbackChangesDialog/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1581081220623" />
+    <state x="1531" y="127" key="SettingsEditor" timestamp="1581080746358">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1531" y="127" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1581080746358" />
+  </component>
+</project>
