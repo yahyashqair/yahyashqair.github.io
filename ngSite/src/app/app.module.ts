@@ -10,6 +10,7 @@ import {WhereComponent} from './Components/body/where/where.component';
 import {FooterComponent} from './Components/footer/footer.component';
 import {RouterModule} from '@angular/router';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,7 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
       {path: 'what', component: WhatComponent},
       {path: '**' , component : WhoComponent}
     ]),
-    NgbModule
+    NgbModule,FontAwesomeModule
 
 
   ],

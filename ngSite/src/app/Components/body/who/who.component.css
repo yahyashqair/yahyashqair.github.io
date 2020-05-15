@@ -9,19 +9,28 @@
 
 .project{
   background-image: linear-gradient(rgb(25, 16, 41) ,#EBEBBC );
-  /*,linear-gradient(var(--light),var(--dark))*/
+  /* ,linear-gradient(var(--light),var(--dark)) */
   height: 100vh;
-  font-family: var(--font-family-monospace);
+  font-family: 'Open Sans', sans-serif;
   color: #EBEBBC;
-
 }
 .bgred{
   color: #230F2B;
-  background:#EBEBBC ;
+  background-image: linear-gradient(rgba(164, 152, 185, 0.356) ,rgba(235, 235, 188, 0.377));
 }
+
+html {
+  background: url("../../../../assets/bg2.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
 .bgimg{
 
-  background-image:url("../../../../assets/bg1.png") ;
+  /* background-image:url("../../../../assets/bg1.png") ; */
   background-size: 1000px;
   background-repeat: no-repeat;
   background-position:center;
@@ -32,8 +41,18 @@
 }
 
 
-h1:hover {
-  background: -webkit-linear-gradient(#44ee97, #357064);
+h1:hover,h4:hover {
+  background: -webkit-linear-gradient(#1c5747, #59bba6);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.card{
+  font-size: 20px;
+  font-family: 'Lobster', cursive;
+}
+
+a{
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit; /* no underline */
 }
