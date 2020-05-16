@@ -19,13 +19,6 @@
   background-image: linear-gradient(rgba(164, 152, 185, 0.356) ,rgba(235, 235, 188, 0.377));
 }
 
-html {
-  background: url("../../../../assets/bg2.jpg") no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
 
 
 .bgimg{
@@ -41,7 +34,7 @@ html {
 }
 
 
-h1:hover,h4:hover {
+h2:hover,h4:hover {
   background: -webkit-linear-gradient(#1c5747, #59bba6);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

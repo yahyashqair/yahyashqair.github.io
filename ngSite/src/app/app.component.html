@@ -1,6 +1,11 @@
 <div class="d-flex  flex-column-reverse flex-md-row ">
 <!--  <app-navbar class=" "></app-navbar>-->
   <div class="flex-grow-1 align-self-stretch ">
-    <router-outlet></router-outlet>
+    <app-navbar></app-navbar>
+    <div class=" container-fluid project  ">
+      <div class="bgimg  min-vh-100 d-flex flex-column align-items-center justify-content-center">
+      <router-outlet></router-outlet>
+      </div>
+    </div>
   </div>
 </div>
